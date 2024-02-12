@@ -21,7 +21,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 - 👯 I’m looking to collaborate on <a href="https://www.linkedin.com/in/erchandanpandey/" target="_blank">LinkedIn</a> & GitHub
 
-- 📫 Reach me on yaweratique90@gmail.com 
+- 📫 Reach me on iamchandanpandey11@gmail.com
 
 - 💬 Open for your suggestions
  
