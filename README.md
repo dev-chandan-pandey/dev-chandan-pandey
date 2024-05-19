@@ -20,7 +20,14 @@ Connect with me on LinkedIn to learn more about my professional background and s
       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
-
+## 💫 Liitle Bit More About Me
+<p>🌱 I'm currently learning the MERN stack, DSA with java and javascript</p>
+<p>💬 Ask me about Javascript,React,Redux,Typescript,Next.js,Node.js Express.js,MongoDB</p>
+<p>📫 How to reach me? iamchandanpandey11@gmail.com</p>
+<p> All of my projects are available a <a href="https://dev-chandan-pandey.github.io/">chandanpadney.github.io</a></p>
+<p>Know about my experiences <a href="https://drive.google.com/file/d/195QipUmiaaLlVt5gangiHiiijb_gCW4c/view">here</a></p>
+<p>⚡ Fun Fact: i am funny</p>
+<!----
 - 🔭 I’m currently working on Frontend & Backend
 - 🌱 I’m currently learning the **MERN stack, DSA with java and javascript**
 - 💬 Ask me about **Javascript,React,Redux,Typescript,Next.js,Node.js Express.js,MongoDB**
@@ -28,7 +35,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 - 📫 Reach me on iamchandanpandey11@gmail.com
 - 📄 Download my <a href="https://drive.google.com/file/d/195QipUmiaaLlVt5gangiHiiijb_gCW4c/view?usp=drive_link" target="_target">Resume</a>
 
-
+----->
 <br>
 
 
