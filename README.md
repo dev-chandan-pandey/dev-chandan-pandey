@@ -6,7 +6,8 @@
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/erchandanpandey/">Chandan pandey 💻</a>!
 </h2>
   
-
+<h3 align="center">A passionate Full Stack Developer</h3>
+<p align="center"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/chandanpandey?logo=twitter&style=for-the-badge" alt="chandanpandey" /></a> </p>
 Hi there! I'm a full-stack web developer with over 1700+ consistent hrs of experience building dynamic and responsive applications. I have a strong background in  MERN stack, and I'm always looking to learn and try new technologies.
 
 Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting! 
