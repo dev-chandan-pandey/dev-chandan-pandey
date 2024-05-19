@@ -22,16 +22,11 @@ Connect with me on LinkedIn to learn more about my professional background and s
 <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
 
 - 🔭 I’m currently working on Frontend & Backend
-
-- 🌱 I’m currently learning MERN stack
-
-- 👯 I’m looking to collaborate on <a href="https://www.linkedin.com/in/erchandanpandey/" target="_blank">LinkedIn</a> & GitHub
-
+- 🌱 I’m currently learning the **MERN stack, DSA with java and javascript**
+- 💬 Ask me about **Javascript,React,Redux,Typescript,Next.js,Node.js Express.js,MongoDB**
+-   <p>👨‍💻 All of my projects are available at<a href="https://dev-chandan-pandey.github.io/" target="_blank">  My portfolio</a></p> 
 - 📫 Reach me on iamchandanpandey11@gmail.com
-
-- 💬 Open for your suggestions
- 
-- 📄 Download my <a href="https://drive.google.com/file/d/1_erpjvc163ZpOh2cSQZqRIM5z7ojNGIg/view?usp=sharing" target="_target">Resume</a>
+- 📄 Download my <a href="https://drive.google.com/file/d/195QipUmiaaLlVt5gangiHiiijb_gCW4c/view?usp=drive_link" target="_target">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
