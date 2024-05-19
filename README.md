@@ -10,7 +10,6 @@
 
 Hi there! I'm a full-stack web developer with over 1700+ consistent hrs of experience building dynamic and responsive applications. I have a strong background in  MERN stack, and I'm always looking to learn and try new technologies.
 
-Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting! 
 
 
 
@@ -20,8 +19,8 @@ Connect with me on LinkedIn to learn more about my professional background and s
       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
-## 💫 Liitle Bit More About Me
-<p>🌱 I'm currently learning the MERN stack, DSA with java and javascript</p>
+## 💫 Little Bit More About Me
+<p>🌱 I'm currently learning the MERN stack, DSA with Java and javascript</p>
 <p>💬 Ask me about Javascript,React,Redux,Typescript,Next.js,Node.js Express.js,MongoDB</p>
 <p>📫 How to reach me? iamchandanpandey11@gmail.com</p>
 <p>🤖 All of my projects are available a <a href="https://dev-chandan-pandey.github.io/">chandanpadney.github.io</a></p>
@@ -98,16 +97,20 @@ Connect with me on LinkedIn to learn more about my professional background and s
 <!-- github status  -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-chandan-pandey&theme=monokai" alt="chandan" /></a> </p>
 
-
-
-
-
+<br/>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-chandan-pandey&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 32%;" alt="GitHub Stats">
     <img src="https://streak-stats.demolab.com/?user=dev-chandan-pandey&_border=true&theme=dark&hide_border=true&theme=react" style="width: 32%;" alt="Streak Stats">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-chandan-pandey&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 32%;" alt="Top Languages">
 </div>
 
+
+<!-----<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-chandan-pandey&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 32%;" alt="GitHub Stats">
+    <img src="https://streak-stats.demolab.com/?user=dev-chandan-pandey&_border=true&theme=dark&hide_border=true&theme=react" style="width: 32%;" alt="Streak Stats">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?
+      username=dev-chandan-pandey&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 32%;" alt="Top Languages">
+</div>----->
 
 
 <br />
