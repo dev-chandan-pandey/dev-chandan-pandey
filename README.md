@@ -12,14 +12,14 @@ Hi there! I'm a full-stack web developer with over 1700+ consistent hrs of exper
 
 Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting! 
 
-<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-chandan-pandey&label=Profile%20views&color=00ff00&style=flat" alt="profile views" /> </p>
 
  
       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
 
 - 🔭 I’m currently working on Frontend & Backend
 
@@ -33,8 +33,8 @@ Connect with me on LinkedIn to learn more about my professional background and s
  
 - 📄 Download my <a href="https://drive.google.com/file/d/1_erpjvc163ZpOh2cSQZqRIM5z7ojNGIg/view?usp=sharing" target="_target">Resume</a>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="#" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="#" height="30" width="40" /></a>
