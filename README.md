@@ -24,9 +24,10 @@ Connect with me on LinkedIn to learn more about my professional background and s
 <p>🌱 I'm currently learning the MERN stack, DSA with java and javascript</p>
 <p>💬 Ask me about Javascript,React,Redux,Typescript,Next.js,Node.js Express.js,MongoDB</p>
 <p>📫 How to reach me? iamchandanpandey11@gmail.com</p>
-<p> All of my projects are available a <a href="https://dev-chandan-pandey.github.io/">chandanpadney.github.io</a></p>
-<p>Know about my experiences <a href="https://drive.google.com/file/d/195QipUmiaaLlVt5gangiHiiijb_gCW4c/view">here</a></p>
+<p>🤖 All of my projects are available a <a href="https://dev-chandan-pandey.github.io/">chandanpadney.github.io</a></p>
+<p>😄Know about my experiences <a href="https://drive.google.com/file/d/195QipUmiaaLlVt5gangiHiiijb_gCW4c/view">here</a></p>
 <p>⚡ Fun Fact: i am funny</p>
+
 <!----
 - 🔭 I’m currently working on Frontend & Backend
 - 🌱 I’m currently learning the **MERN stack, DSA with java and javascript**
