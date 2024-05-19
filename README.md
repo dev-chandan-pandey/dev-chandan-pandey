@@ -7,7 +7,7 @@
 </h2>
   
 <h3 align="center">A passionate Full Stack Developer</h3>
-<p align="center"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/chandanpandey?logo=twitter&style=for-the-badge" alt="chandanpandey" /></a> </p>
+
 Hi there! I'm a full-stack web developer with over 1700+ consistent hrs of experience building dynamic and responsive applications. I have a strong background in  MERN stack, and I'm always looking to learn and try new technologies.
 
 Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting! 
@@ -28,19 +28,28 @@ Connect with me on LinkedIn to learn more about my professional background and s
 - 📫 Reach me on iamchandanpandey11@gmail.com
 - 📄 Download my <a href="https://drive.google.com/file/d/195QipUmiaaLlVt5gangiHiiijb_gCW4c/view?usp=drive_link" target="_target">Resume</a>
 
-<h3 align="left">Connect with me:</h3>
+
+<br>
+
+
+
+<!----------------------------------- Social Media Links Section ------------------------------------>
+
+<h2><i>Let's Connect</i></h2>
+
+
 <p align="left">
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="#" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="#" height="30" width="40" /></a>
-<a href="https://github.com/dev-chandan-pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="#" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt=""#" height="30" width="40" /></a> 
-<a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="#" height="30" width="40" /></a> 
-<a href="#" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/129_Fiverr-512.png" alt="#" height="30" width="40" /></a> 
-<a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" alt="#" height="40" width="40" /></a> 
-
+    <a href="https://www.linkedin.com/in/erchandanpandey/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/erchandanpandey/" />
+    </a>
+    <a href="https://x.com/_chandan_pandey">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://x.com/_chandan_pandey" />
+    </a>
+   <a href="https://www.instagram.com/chandanpandey__">
+        <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/chandanpandey__" />
+    </a>
 </p>
-
+<br>
 <h2>🥇 Technical Skills:  </h2>  
 
  <div align="center"><h3 align="center">Frontend</h3>
