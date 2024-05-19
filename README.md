@@ -1,6 +1,11 @@
+  
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Chandan!;Learning+MERN...👨🏻‍💻;" style="width: 100%;">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h2 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/erchandanpandey/">Chandan pandey 💻</a>!
-</h2>  
+</h2>
+  
 
 Hi there! I'm a full-stack web developer with over 1700+ consistent hrs of experience building dynamic and responsive applications. I have a strong background in  MERN stack, and I'm always looking to learn and try new technologies.
 
