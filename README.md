@@ -73,29 +73,27 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 ## 📊 Statistics  
 <!-- github status  -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-chandan-pandey" alt="chandan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-chandan-pandey&theme=monokai" alt="chandan" /></a> </p>
 
-<div align="center" style="display: flex; gap:50px">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-chandan-pandey&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 50%" />
 
-<div align="center" style="display: flex; ">
- 
-<img src="https://streak-stats.demolab.com/?user=dev-chandan-pandey&_border=true&theme=dark&hide_border=true&theme=react" style="width: 50%" />
 
-</div>
 
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?
-   username=dev-chandan-pandey&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 50%" />
 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-chandan-pandey&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 32%;" alt="GitHub Stats">
+    <img src="https://streak-stats.demolab.com/?user=dev-chandan-pandey&_border=true&theme=dark&hide_border=true&theme=react" style="width: 32%;" alt="Streak Stats">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-chandan-pandey&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 32%;" alt="Top Languages">
 </div>
 
 
 
-<h2 align="left">⚡Activity Graph:</h2>
-<a href="https://github.com/dev-chandan-pandey"><img alt="Chandan Pandey Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-chandan-pandey&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" /></a>
+<br />
 
-<br>
-
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-chandan-pandey&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
 
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
