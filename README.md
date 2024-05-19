@@ -84,7 +84,8 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 </div>
 
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yawer091&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 50%" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?
+   username=dev-chandan-pandey&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 50%" />
 
 </div>
 
