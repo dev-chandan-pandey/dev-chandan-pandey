@@ -7,9 +7,9 @@
 </h2>
   
 <h3 align="center">A passionate Full Stack Developer</h3>
-
+<h3 align="center">
 Hi there! I'm a full-stack web developer with over 1700+ consistent hrs of experience building dynamic and responsive applications. I have a strong background in  MERN stack, and I'm always looking to learn and try new technologies.
-
+</h3>
 
 
 
