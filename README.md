@@ -12,8 +12,16 @@ Hi there! I'm a full-stack web developer with over 1700+ consistent hrs of exper
 </h3>
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-chandan-pandey&label=Profile%20views&color=00ff00&style=flat" alt="profile views" /> </p>
+<p align="left">
+    <a href="https://github.com/dev-chandan-pandey">
+        <img src="https://komarev.com/ghpvc/?username=dev-chandan-pandey&label=Profile%20views&color=00ff00&style=flat" alt="dev-chandan-pandeyt" />
+    </a>
+    <a href="https://github.com/dev-chandan-pandey?tab=followers">
+        <img src="https://img.shields.io/github/followers/dev-chandan-pandey?label=Followers&style=social" alt="followers-count">
+    </a>
+</p>
+<br>
+<!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-chandan-pandey&label=Profile%20views&color=00ff00&style=flat" alt="profile views" /> </p>---->
 
  
       
