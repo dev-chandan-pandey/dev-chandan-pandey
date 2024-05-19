@@ -32,6 +32,19 @@ Connect with me on LinkedIn to learn more about my professional background and s
  
 - 📄 Download my <a href="https://drive.google.com/file/d/1_erpjvc163ZpOh2cSQZqRIM5z7ojNGIg/view?usp=sharing" target="_target">Resume</a>
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="#" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="#" height="30" width="40" /></a>
+<a href="https://github.com/dev-chandan-pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="#" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt=""#" height="30" width="40" /></a> 
+<a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="#" height="30" width="40" /></a> 
+<a href="#" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/129_Fiverr-512.png" alt="#" height="30" width="40" /></a> 
+<a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" alt="#" height="40" width="40" /></a> 
+
+</p>
+
 <h2>🥇 Technical Skills:  </h2>  
 
  <div align="center"><h3 align="center">Frontend</h3>
