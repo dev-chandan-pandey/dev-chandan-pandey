@@ -41,7 +41,7 @@ Hi there! I'm a full-stack web developer with over 1700+ consistent hrs of exper
 - 💬 Ask me about **Javascript,React,Redux,Typescript,Next.js,Node.js Express.js,MongoDB**
 -   <p>👨‍💻 All of my projects are available at<a href="https://dev-chandan-pandey.github.io/" target="_blank">  My portfolio</a></p> 
 - 📫 Reach me on iamchandanpandey11@gmail.com
-- 📄 Download my <a href="https://drive.google.com/file/d/195QipUmiaaLlVt5gangiHiiijb_gCW4c/view?usp=drive_link" target="_target">Resume</a>
+- 📄 Download my <a href="https://drive.google.com/file/d/1zgDBTMrn_nv6Iks8XLwuFYHWpjc3nNEF/view?usp=drive_link" target="_target">Resume</a>
 
 ----->
 <br>
