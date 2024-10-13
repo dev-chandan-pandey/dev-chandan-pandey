@@ -69,6 +69,13 @@ Hi there! I'm a full-stack web developer with over 1700+ consistent hrs of exper
 <a href="https://auth.geeksforgeeks.org/user/yourusername">
     <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="https://auth.geeksforgeeks.org/user/chandan_pandey" />
 </a>
+  <a href="https://www.hackerrank.com/chandanpandey">
+    <img align="center" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="https://www.hackerrank.com/chandanpandey" />
+</a>
+<a href="https://www.hackerearth.com/@chandan_pandey">
+    <img align="center" src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" alt="https://www.hackerearth.com/@chandan_pandey" />
+</a>
+
 </p>
 <br>
 <h2>🥇 Technical Skills:  </h2>  
