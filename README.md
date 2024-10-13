@@ -63,24 +63,7 @@ Hi there! I'm a full-stack web developer with over 1700+ consistent hrs of exper
    <a href="https://www.instagram.com/chandanpandey__">
         <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/chandanpandey__" />
     </a>
-  <a href="https://leetcode.com/yourusername">
-    <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="https://leetcode.com/chandan_pandey" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/yourusername">
-    <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="https://auth.geeksforgeeks.org/user/chandan_pandey" />
-</a>
-  <a href="https://www.hackerrank.com/chandanpandey">
-    <img align="center" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="https://www.hackerrank.com/chandanpandey" />
-</a>
-<a href="https://www.hackerearth.com/@chandan_pandey">
-    <img align="center" src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" alt="https://www.hackerearth.com/@chandan_pandey" />
-</a>
-<a href="https://codeforces.com/profile/chandan_pandey">
-    <img align="center" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="https://codeforces.com/profile/chandan_pandey" />
-</a>
-<a href="https://www.codechef.com/users/avid_quilt_24">
-    <img align="center" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="https://www.codechef.com/users/avid_quilt_24" />
-</a>
+
 
 </p>
 <br>
@@ -101,6 +84,32 @@ Hi there! I'm a full-stack web developer with over 1700+ consistent hrs of exper
 <img align="center" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="https://nextjs.org" />
 
 </div>
+<h2><i>Activity 🚀</i></h2>
+<h3 align="left"><i>🧠 Brainstorming and 📐 Problem-solving</i></h3>
+<!-- - 🧠 <i>Brainstorming</i>
+- 📐 <i>Problem-solving</i> -->
+
+<p align="left">
+    <a href="https://leetcode.com/yourusername">
+    <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="https://leetcode.com/chandan_pandey" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/yourusername">
+    <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="https://auth.geeksforgeeks.org/user/chandan_pandey" />
+</a>
+  <a href="https://www.hackerrank.com/chandanpandey">
+    <img align="center" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="https://www.hackerrank.com/chandanpandey" />
+</a>
+<a href="https://www.hackerearth.com/@chandan_pandey">
+    <img align="center" src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" alt="https://www.hackerearth.com/@chandan_pandey" />
+</a>
+<a href="https://codeforces.com/profile/chandan_pandey">
+    <img align="center" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="https://codeforces.com/profile/chandan_pandey" />
+</a>
+<a href="https://www.codechef.com/users/avid_quilt_24">
+    <img align="center" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="https://www.codechef.com/users/avid_quilt_24" />
+</a>
+  </p>
+ 
  <br/>
   <div align="left"><h3 align="left">💻 Backend</h3> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
