@@ -66,7 +66,9 @@ Hi there! I'm a full-stack web developer with over 1700+ consistent hrs of exper
   <a href="https://leetcode.com/yourusername">
     <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="https://leetcode.com/chandan_pandey" />
 </a>
-
+<a href="https://auth.geeksforgeeks.org/user/yourusername">
+    <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="https://auth.geeksforgeeks.org/user/chandan_pandey" />
+</a>
 </p>
 <br>
 <h2>🥇 Technical Skills:  </h2>  
