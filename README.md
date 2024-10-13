@@ -76,12 +76,12 @@ Hi there! I'm a full-stack web developer with over 1700+ consistent hrs of exper
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" />
-
-
-  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
-  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
+<img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+<img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
 <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="https://www.typescriptlang.org" />
 <img align="center" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="https://nextjs.org" />
+</div>
+<div>
 
 </div>
 <h2><i>Activity 🚀</i></h2>
@@ -130,6 +130,7 @@ Hi there! I'm a full-stack web developer with over 1700+ consistent hrs of exper
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
  
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
+    <br/>
     <img src='https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white' align='center' alt='storybook' />
  
   </div>
