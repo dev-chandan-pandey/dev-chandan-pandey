@@ -75,6 +75,12 @@ Hi there! I'm a full-stack web developer with over 1700+ consistent hrs of exper
 <a href="https://www.hackerearth.com/@chandan_pandey">
     <img align="center" src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" alt="https://www.hackerearth.com/@chandan_pandey" />
 </a>
+<a href="https://codeforces.com/profile/chandan_pandey">
+    <img align="center" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="https://codeforces.com/profile/chandan_pandey" />
+</a>
+<a href="https://www.codechef.com/users/avid_quilt_24">
+    <img align="center" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="https://www.codechef.com/users/avid_quilt_24" />
+</a>
 
 </p>
 <br>
