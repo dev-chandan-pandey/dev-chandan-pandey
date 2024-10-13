@@ -147,6 +147,9 @@ Hi there! I'm a full-stack web developer with over 1700+ consistent hrs of exper
 
 
 <br />
+<a href="https://leetcode.com/u/chandan_pandey/">
+    <img align="center" src="https://leetcard.jacoblin.cool/chandan_pandey?ext=heatmap" alt="Leetcode Stats" />
+</a>
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
