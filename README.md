@@ -63,6 +63,10 @@ Hi there! I'm a full-stack web developer with over 1700+ consistent hrs of exper
    <a href="https://www.instagram.com/chandanpandey__">
         <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/chandanpandey__" />
     </a>
+  <a href="https://leetcode.com/yourusername">
+    <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="https://leetcode.com/chandan_pandey" />
+</a>
+
 </p>
 <br>
 <h2>🥇 Technical Skills:  </h2>  
