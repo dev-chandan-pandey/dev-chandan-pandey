@@ -90,10 +90,10 @@ Hi there! I'm a full-stack web developer with over 1700+ consistent hrs of exper
 - 📐 <i>Problem-solving</i> -->
 
 <p align="left">
-    <a href="https://leetcode.com/yourusername">
+    <a href="https://leetcode.com/chandan_pandey">
     <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="https://leetcode.com/chandan_pandey" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/yourusername">
+<a href="https://auth.geeksforgeeks.org/user/chandan_pandey">
     <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="https://auth.geeksforgeeks.org/user/chandan_pandey" />
 </a>
   <a href="https://www.hackerrank.com/chandanpandey">
