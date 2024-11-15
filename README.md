@@ -162,8 +162,28 @@ Hi there! I'm a full-stack web developer with over 1700+ consistent hrs of exper
 <a href="https://leetcode.com/u/chandan_pandey/">
     <img align="center" src="https://leetcard.jacoblin.cool/chandan_pandey?ext=heatmap" alt="Leetcode Stats" />
 </a>
+<br />
 
-<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=chandan_pandey" alt="GFG stats" />
+<a href="https://auth.geeksforgeeks.org/user/chandan_pandey">
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=chandan_pandey" alt="GFG stats" /> 
+</a>
+
+
+ <table>
+  <tr>
+    <td>
+      <a href="https://leetcode.com/u/chandan_pandey/">
+        <img src="https://leetcard.jacoblin.cool/chandan_pandey?ext=heatmap" alt="Leetcode Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://auth.geeksforgeeks.org/user/chandan_pandey">
+        <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=chandan_pandey" alt="GFG stats" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 <!--Contribution Graph-->
