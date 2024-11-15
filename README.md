@@ -153,7 +153,7 @@ Hi there! I'm a full-stack web developer with over 1700+ consistent hrs of exper
     <img src="https://streak-stats.demolab.com/?user=dev-chandan-pandey&_border=true&theme=dark&hide_border=true&theme=react" style="width: 32%;" alt="Streak Stats">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?
       username=dev-chandan-pandey&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 32%;" alt="Top Languages">
-</div>----->
+</div>
 
 
 <br />
@@ -168,7 +168,7 @@ Hi there! I'm a full-stack web developer with over 1700+ consistent hrs of exper
   <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=chandan_pandey" alt="GFG stats" /> 
 </a>
 
-
+----->
  <table>
   <tr>
     <td>
@@ -177,9 +177,8 @@ Hi there! I'm a full-stack web developer with over 1700+ consistent hrs of exper
       </a>
     </td>
     <td>
-      <a href="https://auth.geeksforgeeks.org/user/chandan_pandey">
-        <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=chandan_pandey" alt="GFG stats" />
-      </a>
+
+  <a href="https://auth.geeksforgeeks.org/user/chandan_pandey">  <img src="https://gfgstatscard.vercel.app/chandan_pandey" alt="GFG stats"/>  </a>
     </td>
   </tr>
 </table>
