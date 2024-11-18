@@ -140,11 +140,30 @@ Hi there! I'm a full-stack web developer with over 1700+ consistent hrs of exper
 
 
 <br/>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<!-----<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-chandan-pandey&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 32%;" alt="GitHub Stats">
     <img src="https://streak-stats.demolab.com/?user=dev-chandan-pandey&_border=true&theme=dark&hide_border=true&theme=react" style="width: 32%;" alt="Streak Stats">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-chandan-pandey&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 32%;" alt="Top Languages">
-</div>
+</div>----->
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/dev-chandan-pandey">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-chandan-pandey&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" alt="GitHub Stats">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/dev-chandan-pandey">
+        <img src="https://streak-stats.demolab.com/?user=dev-chandan-pandey&_border=true&theme=dark&hide_border=true&theme=react" alt="Streak Stats">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/dev-chandan-pandey">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-chandan-pandey&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" alt="Top Languages">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-chandan-pandey&theme=monokai" alt="chandan" /></a> </p>
 
